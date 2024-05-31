@@ -1,1 +1,1 @@
-# addingProperty
+Taking 5 waterbodies as feature collection, I used map method to add property into the FC. Here is the [GEE code link](https://code.earthengine.google.com/3a448c09bb08f2eff38968c69c005c23), then the [code](https://github.com/AtikulRahi/addingProperty/blob/main/addingProperty.js), lastly the [snapshot of the code](https://github.com/AtikulRahi/addingProperty/blob/main/addingProperties.JPG).
